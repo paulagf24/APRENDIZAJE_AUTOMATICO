@@ -1,0 +1,7 @@
+tensorflow
+matplotlib
+scikit-learn
+scipy
+pandas
+jupyter
+# tensorflow-metal==1.0.0 for tensorflow 2.13.0
