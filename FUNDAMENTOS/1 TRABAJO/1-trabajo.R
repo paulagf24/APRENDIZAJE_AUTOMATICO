@@ -1,7 +1,0 @@
-library(readr)
-df_restla <- read_csv("rest-la.csv")
-print (df_restla)
-summary(df_restla)
-df_tsunami <- read_csv("tsunami.csv")
-print (df_tsunami)
-summary(df_tsunami)
